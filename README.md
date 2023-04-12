@@ -12,7 +12,7 @@ This is a reproduction of the Christopher Langton ant algorithme with some addit
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
+- Python `tkinter` library
 ## Usage
 You can define a sequence using this section :
 
